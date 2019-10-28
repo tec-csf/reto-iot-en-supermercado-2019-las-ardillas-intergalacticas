@@ -1,13 +1,13 @@
 # IoT en el Supermercado
 ---
-#### Equipo *[Poner aquí nombre del equipo]*
+#### Equipo *Las ardillas intergalácticas*
 
 ##### Integrantes:
-1. *[Poner aquí Nombre y Apellidos del integrante 1]* - *[Poner aquí su Matrícula]* - *[Poner aquí su campus]*
-2. *[Poner aquí Nombre y Apellidos del integrante 2]* - *[Poner aquí su Matrícula]* - *[Poner aquí su campus]*
-3. *[Poner aquí Nombre y Apellidos del integrante 3]* - *[Poner aquí su Matrícula]* - *[Poner aquí su campus]*
-4. *[Poner aquí Nombre y Apellidos del integrante 4]* - *[Poner aquí su Matrícula]* - *[Poner aquí su campus]*
-5. *[Poner aquí Nombre y Apellidos del integrante 5]* - *[Poner aquí su Matrícula]* - *[Poner aquí su campus]*
+1. *Monserrat Correa Ruiz *         -   *A01610015* - *Campus San Luis Potosí*
+2. *Jeasika Alejandra López López*  -   *A00821873* - *Campus Monterrey*
+3. *Marco Antonio Valdez Calderón*  -   *A01377026* - *Campus Estado de México*
+4. *Gerardo Derrant Ávalos*         -   *A01377513* - *Campus Estado de México*
+5. *Carlos Uriel Ibarra Navarrete*  -   *A01377509* - *Campus Estado de México*
 
 ---
 ## 1. Aspectos generales
