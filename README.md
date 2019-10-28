@@ -3,11 +3,11 @@
 #### Equipo *Las ardillas intergalácticas*
 
 ##### Integrantes:
-1. *Monserrat Correa Ruiz*         -   *A01610015* - *Campus San Luis Potosí*
-2. *Jeasika Alejandra López López*  -   *A00821873* - *Campus Monterrey*
-3. *Marco Antonio Valdez Calderón*  -   *A01377026* - *Campus Estado de México*
-4. *Gerardo Derrant Ávalos*         -   *A01377513* - *Campus Estado de México*
-5. *Carlos Uriel Ibarra Navarrete*  -   *A01377509* - *Campus Estado de México*
+1. *Monserrat Correa Ruiz*              -   *A01610015* - *Campus San Luis Potosí*
+2. *Jeasika Alejandra López López*      -   *A00821873* - *Campus Monterrey*
+3. *Marco Antonio Valdez Calderón*      -   *A01377026* - *Campus Estado de México*
+4. *Gerardo Derrant Ávalos*             -   *A01377513* - *Campus Estado de México*
+5. *Carlos Uriel Ibarra Navarrete*      -   *A01377509* - *Campus Estado de México*
 
 ---
 ## 1. Aspectos generales
