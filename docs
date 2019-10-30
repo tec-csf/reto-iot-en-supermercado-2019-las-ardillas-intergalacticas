@@ -1,0 +1,50 @@
+DOCUMENTACIÓN DEL PROYECTO
+
+1. Descripción del proyecto
+Desarrollar un modelo de Internet de las Cosas en el Supermercado que permita generar tableros de desempeño para identificar patrones de consumo y hacer más eficiente el manejo de inventarios.
+
+2. Solución
+A continuación aparecen descritos los diferentes elementos que forman parte de la solución del proyecto.
+
+3.1 Modelos o servicios de Machine Learning utilizados
+Identificación facial por medio de la webcam: cuando una persona se acerca al refrigerador se detecta con 
+[Incluya aquí una explicación del análisis realizado y la justificación de los modelos y/o servicios de Machine Learning seleccionados. Incluya todo lo que considere necesario para que una persona sin conocimientos técnicos pueda entender de que trata su solución.]
+
+3.2 Arquitectura de la solución
+[Incluya aquí un diagrama donde se aprecie la arquitectura de la solución implementada, así como la interacción entre los diferentes componentes de la misma.]
+
+[Incluya imágenes del circuito armado con los sensores conectados.]
+
+3.3 Frontend
+[Incluya aquí una explicación de la solución utilizada para el frontend del proyecto. No olvide incluir las ligas o referencias donde se puede encontrar información de los lenguajes de programación, frameworks y librerías utilizadas.]
+
+3.3.1 Lenguaje de programación
+3.3.2 Framework
+3.3.3 Librerías de funciones o dependencias
+3.4 Backend
+[Incluya aquí una explicación de la solución utilizada para el backend del proyecto. No olvide incluir las ligas o referencias donde se puede encontrar información de los lenguajes de programación, frameworks y librerías utilizadas.]
+
+3.4.1 Lenguaje de programación
+3.4.2 Framework
+3.4.3 Librerías de funciones o dependencias
+[Incluya aquí una explicación de cada uno de los endpoints que forman parte de la API. Cada endpoint debe estar correctamente documentado.]
+
+[Por cada endpoint debe incluir lo siguiente:]
+
+Descripción:
+URL:
+Verbos HTTP:
+Headers:
+Formato JSON del cuerpo de la solicitud:
+Formato JSON de la respuesta:
+3.5 Sensores
+[Incluya aquí una explicación de la solución utilizada para implementar la captura de datos de los diferentes sensores en la Raspberry Pi. No olvide incluir las ligas o referencias donde se puede encontrar información de los sensores, lenguajes de programación, frameworks y librerías utilizadas.]
+
+3.5.1 Lenguaje de programación
+3.5.2 Framework
+3.5.3 Librerías de funciones o dependencias
+3.6 Pasos a seguir para utilizar el proyecto
+[Incluya aquí una guía paso a paso para poder utilizar el proyecto, desde la clonación de este repositorio hasta el despliegue de la solución en una Raspberry Pi y en una plataforma en la nube.]
+
+4. Referencias
+[Incluya aquí las referencias a sitios de interés, datasets y cualquier otra información que haya utilizado para realizar el proyecto y que le puedan ser de utilidad a otras personas que quieran usarlo como referencia]
