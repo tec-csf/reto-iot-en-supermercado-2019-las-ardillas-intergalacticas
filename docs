@@ -7,8 +7,7 @@ Desarrollar un modelo de Internet de las Cosas en el Supermercado que permita ge
 A continuación aparecen descritos los diferentes elementos que forman parte de la solución del proyecto.
 
 3.1 Modelos o servicios de Machine Learning utilizados
-  -Identificación facial por medio de la webcam: cuando una persona se acerca al refrigerador se detecta con el sensor de movimiento y automáticamente se toma una fotografía.
-[Incluya aquí una explicación del análisis realizado y la justificación de los modelos y/o servicios de Machine Learning seleccionados. Incluya todo lo que considere necesario para que una persona sin conocimientos técnicos pueda entender de que trata su solución.]
+  -Identificación facial por medio de la webcam: cuando una persona se acerca al refrigerador se detecta con el sensor de movimiento y automáticamente se toma una fotografía. A través de 
 
 3.2 Arquitectura de la solución
 [Incluya aquí un diagrama donde se aprecie la arquitectura de la solución implementada, así como la interacción entre los diferentes componentes de la misma.]
