@@ -37,7 +37,7 @@ Python3: todo el código se desarrolló en él.
 
 -Lectores RFID: Ayuda a saber cuando una persona, después de tomar el producto, lo saca o lo vuelve a ingresar del refrigerador. 
       Lenguaje de programación: python3
-      Librerías de funciones o dependencias:
+      Librerías de funciones o dependencias: SimpleMFRC522 
 
 -Sensor magnético: Abre y cierra puerta del refrigerador. 
       Lenguaje de programación: python3
@@ -46,11 +46,18 @@ Python3: todo el código se desarrolló en él.
 -Sensor de temperatura: mide la temperatura del refrigerador.
       Lenguaje de programación: python3
       Librerías de funciones o dependencias:
+      
+-ADC: convertidor analógico-digital.
+      Lenguaje de programación: python3
+      Librerías de funciones o dependencias: Adafruit Python ADS1x15
 
 3.6 Pasos a seguir para utilizar el proyecto
 [Incluya aquí una guía paso a paso para poder utilizar el proyecto, desde la clonación de este repositorio hasta el despliegue de la solución en una Raspberry Pi y en una plataforma en la nube.]
       1. Clonar el repositorio <iot_superemercado>
-      2.
+      2. Correr los programas en un editor de texto
+      3. Hacer la conexión con la nube
+      4. Generar las queries desde Google Cloud
+      5. Visualizar los gráficos generados por los datos tomados por los sensores.
       
 4. Referencias
 [Incluya aquí las referencias a sitios de interés, datasets y cualquier otra información que haya utilizado para realizar el proyecto y que le puedan ser de utilidad a otras personas que quieran usarlo como referencia]
