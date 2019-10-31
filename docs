@@ -7,8 +7,7 @@ Desarrollar un modelo de Internet de las Cosas en el Supermercado que permita ge
 A continuación aparecen descritos los diferentes elementos que forman parte de la solución del proyecto.
 
 3.1 Modelos o servicios de Machine Learning utilizados
-
--Identificación facial por medio de la webcam: cuando una persona se acerca al refrigerador se detecta con el sensor de movimiento/presencia y automáticamente se toma una fotografía. Ésto sirve para saber el sexo y la edad de la persona.
+      -Microsoft Cognitive Services: para el reconocimiento facial e identificación de edad y género.
 
 3.2 Arquitectura de la solución
 [Incluya aquí un diagrama donde se aprecie la arquitectura de la solución implementada, así como la interacción entre los diferentes componentes de la misma.]
@@ -19,13 +18,13 @@ A continuación aparecen descritos los diferentes elementos que forman parte de 
 BIG TABLE [incluir imágenes de la tabla final con los estadísticos]
 
 3.4 Backend
-Se desarrolló código como la conexión con los diversos sensores y para subir a la nube la información que capturaba cada sensor.
+Se desarrolló código para la conexión con los diversos sensores y subir a la nube la información que capturaba cada sensor.
 
 3.4.1 Lenguaje de programación
 Python3: todo el código se desarrolló en él.
 
 3.4.3 Librerías de funciones o dependencias
--
+      -Datetime: conocer la fecha y hora.
 
 3.5 Sensores
 -Sensor movimiento/presencia: Detecta cuando una persona se para frente al refrigerador. 
@@ -50,6 +49,8 @@ Python3: todo el código se desarrolló en él.
 
 3.6 Pasos a seguir para utilizar el proyecto
 [Incluya aquí una guía paso a paso para poder utilizar el proyecto, desde la clonación de este repositorio hasta el despliegue de la solución en una Raspberry Pi y en una plataforma en la nube.]
-
+      1. Clonar el repositorio <iot_superemercado>
+      2.
+      
 4. Referencias
 [Incluya aquí las referencias a sitios de interés, datasets y cualquier otra información que haya utilizado para realizar el proyecto y que le puedan ser de utilidad a otras personas que quieran usarlo como referencia]
