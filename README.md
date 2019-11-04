@@ -1,4 +1,4 @@
-# IoT en el Supermercado1
+# IoT en el Supermercado
 ---
 #### Equipo *Las ardillas intergalácticas*
 
