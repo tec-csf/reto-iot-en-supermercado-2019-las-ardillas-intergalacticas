@@ -29,12 +29,10 @@ Python3: todo el código se desarrolló en él.
 3.5 Sensores
 -Sensor movimiento/presencia: Detecta cuando una persona se para frente al refrigerador. 
       Lenguaje de programación: python3
-      Librerías de funciones o dependencias:
 
 -Sensor presión: Indica cuando una persona toma algún producto de su posición inicial dentro del refrigerador.
       Lenguaje de programación: python3
-      Librerías de funciones o dependencias:
-
+  
 -Lectores RFID: Ayuda a saber cuando una persona, después de tomar el producto, lo saca o lo vuelve a ingresar del refrigerador. 
       Lenguaje de programación: python3
       Librerías de funciones o dependencias: SimpleMFRC522 
@@ -45,8 +43,7 @@ Python3: todo el código se desarrolló en él.
 
 -Sensor de temperatura: mide la temperatura del refrigerador.
       Lenguaje de programación: python3
-      Librerías de funciones o dependencias:
-      
+
 -ADC: convertidor analógico-digital.
       Lenguaje de programación: python3
       Librerías de funciones o dependencias: Adafruit Python ADS1x15
