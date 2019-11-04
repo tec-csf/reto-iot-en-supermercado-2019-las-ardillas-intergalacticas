@@ -1,0 +1,9 @@
+README.md
+setup.py
+Adafruit_ADS1x15/ADS1x15.py
+Adafruit_ADS1x15/__init__.py
+Adafruit_ADS1x15.egg-info/PKG-INFO
+Adafruit_ADS1x15.egg-info/SOURCES.txt
+Adafruit_ADS1x15.egg-info/dependency_links.txt
+Adafruit_ADS1x15.egg-info/requires.txt
+Adafruit_ADS1x15.egg-info/top_level.txt
